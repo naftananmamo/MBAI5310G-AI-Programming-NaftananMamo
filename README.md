@@ -51,7 +51,7 @@ This repository contains all coding assignments for MBAI 5310G. Each assignment 
 │   └── README.md
 └── resources/                                               # Course resources and reference materials
     ├── optional_notes.md
-    └── README.md
+└── README.md
 ```
 
 ---
