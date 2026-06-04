@@ -1,9 +1,13 @@
 # MBAI 5310G: AI Programming
 
 **Student:** Naftanan Mamo
+
 **Course:** MBAI 5310G - AI Programming
+
 **Institution:** Ontario Tech University
+
 **Instructor:** Zahra Atf
+
 **Term:** Spring 2026
 
 ---
